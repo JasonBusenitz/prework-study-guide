@@ -1,19 +1,24 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: black;
    }
    
    header,
    footer {
     width: 100%;
     height: 120px;
-    background-color: #7e48e2;
+    background-color: #3FB513;
     color: white;
    }
    
    h1,
    h2 {
     text-align: center;
+    color: white;
+   }
+   h3 {
+    color: white;
    }
    
    img {
@@ -27,15 +32,17 @@
    ul {
     padding-left: 40px;
     font-size: 20px;
+    color: white;
    }
    
    p {
     text-align: center;
     font-size: 30px;
+    color: white;
    }
    .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid #22BA8A;
-    box-shadow: 5px 10px #22BA8A;
+    border: 5px solid #3FB513;
+    box-shadow: 5px 10px #3FB513;
   }
