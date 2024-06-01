@@ -9,7 +9,7 @@ N/A
 
 ## Usage
 
-There are four sections on this webpage. They are HTML, CSS, Git, and JavaScript. To see the JavaScript in action, right click the webpage and click on Inspect. Next navagate to the console tab and where the JavaScript will be found.
+There are four sections on this webpage. They are HTML, CSS, Git, and JavaScript. To see the JavaScript in action, right click the webpage and click on Inspect, then navagate to the console tab.
 
 ## Credits
 
