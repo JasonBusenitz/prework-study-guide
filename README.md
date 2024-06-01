@@ -1,4 +1,4 @@
-# < Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
 Having all of your notes in one easily accessible place is a major life-saver for students. Which is why this website was created. On this webpage, one can find all of the subjects covered in the prework, as well as convenent places to type notes in each section.
